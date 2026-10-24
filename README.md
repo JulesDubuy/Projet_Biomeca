@@ -60,16 +60,9 @@ Laisse toutes les options par défaut pendant l'installation.
 
 ---
 
-## 🚀 Récupérer le projet depuis GitHub (cloner le dépôt)
+## 🚀 Récupérer le projet depuis GitHub 
 
-> **C'est quoi GitHub ?** C'est un site où l'on stocke et partage du code. "Cloner" signifie télécharger une copie du projet sur ton ordinateur.
-
-### Étape 1 — Ouvre un terminal
-
-- **Windows** : appuie sur `Windows + R`, tape `powershell`, valide avec `Entrée`
-- **Mac** : ouvre l'application **Terminal**
-
-### Étape 2 — Va dans le dossier où tu veux mettre le projet
+### Étape 1 — Va dans le dossier où tu veux mettre le projet
 
 Par exemple, pour aller dans ton dossier `Documents` :
 
@@ -77,7 +70,7 @@ Par exemple, pour aller dans ton dossier `Documents` :
 cd Documents
 ```
 
-### Étape 3 — Clone le projet
+### Étape 2 — Clone le projet
 
 ```bash
 git clone https://github.com/JulesDubuy/Projet_Biomeca.git
@@ -85,7 +78,7 @@ git clone https://github.com/JulesDubuy/Projet_Biomeca.git
 
 Cette commande télécharge tout le projet dans un nouveau dossier `Projet_Biomeca`.
 
-### Étape 4 — Entre dans le dossier du projet
+### Étape 3 — Entre dans le dossier du projet
 
 ```bash
 cd Projet_Biomeca
