@@ -43,7 +43,6 @@ Ouvre un terminal (invite de commandes ou PowerShell) et tape :
 pip install jupyter numpy matplotlib ezc3d
 ```
 
-> 💡 **C'est quoi `pip` ?** C'est le gestionnaire de paquets de Python, il permet d'installer des bibliothèques (comme des extensions).
 
 ### 2. Git (pour récupérer le projet)
 
@@ -80,19 +79,7 @@ cd Projet_Biomeca
 
 ---
 
-## ▶️ Lancer le notebook
 
-Dans le terminal, depuis le dossier du projet, tape :
-
-```bash
-jupyter notebook
-```
-
-Une page va s'ouvrir automatiquement dans ton navigateur. Clique sur **`Projet.ipynb`** pour ouvrir le notebook.
-
-Pour exécuter le code, clique sur une cellule puis appuie sur **`Shift + Entrée`**.
-
----
 
 ## 💾 Contribuer au projet — Envoyer ses modifications sur GitHub
 
@@ -168,8 +155,8 @@ git pull origin main
 | `pip` n'est pas reconnu | Relance le terminal après avoir installé Python, ou réinstalle Python en cochant "Add to PATH" |
 | `git` n'est pas reconnu | Relance le terminal après avoir installé Git |
 | `jupyter` ne s'ouvre pas | Tape `pip install notebook` puis réessaie |
-| Erreur lors du `git push` | Assure-toi d'avoir les droits sur le dépôt (contacte Jules) |
-| Conflit lors du `git pull` | Ne panique pas — contacte un membre du groupe pour résoudre ensemble |
+| Erreur lors du `git push` | Assure-toi d'avoir les droits sur le dépôt |
+
 
 ---
 
