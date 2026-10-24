@@ -34,14 +34,8 @@ Groupe_3/
 
 ## 🛠️ Prérequis — Ce qu'il faut installer
 
-### 1. Python
 
-Télécharge et installe Python depuis le site officiel :
-👉 https://www.python.org/downloads/
-
-> ⚠️ **Important** : lors de l'installation, coche bien la case **"Add Python to PATH"** avant de cliquer sur "Install Now".
-
-### 2. Les bibliothèques Python nécessaires
+### 1. Les bibliothèques Python nécessaires
 
 Ouvre un terminal (invite de commandes ou PowerShell) et tape :
 
@@ -51,7 +45,7 @@ pip install jupyter numpy matplotlib ezc3d
 
 > 💡 **C'est quoi `pip` ?** C'est le gestionnaire de paquets de Python, il permet d'installer des bibliothèques (comme des extensions).
 
-### 3. Git (pour récupérer le projet)
+### 2. Git (pour récupérer le projet)
 
 Télécharge et installe Git depuis :
 👉 https://git-scm.com/downloads
